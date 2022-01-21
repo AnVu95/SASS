@@ -1,0 +1,123 @@
+.footer {
+  background-image: url(../../img/footer_background.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 8em, 0;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 1.55rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+.footer-content {
+  margin-bottom: 80px;
+}
+
+.footer-contact {
+  padding-left: 0;
+}
+
+.footer-contact li {
+  margin-bottom: 10px;
+}
+
+.footer-contact li span:nth-of-type(2) {
+  font-size: 0.9em;
+  padding-left: 0.5em;
+}
+
+.footer-contact__social {
+  font-size: 0.9em;
+  padding-top: 10px;
+}
+
+.footer-contact__social i {
+  color: #ffffff;
+  font-size: 1em;
+  padding-left: 1em;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.footer-contact__social .fa-twitter {
+  padding-left: 0;
+}
+
+.footer-contact__social i:hover {
+  color: #191919;
+}
+
+.footer-link ul li, .footer-about ul li {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: .8em 0;
+  line-height: 1;
+}
+
+.footer-link ul li:first-child, .footer-about ul li:first-child {
+  padding-top: 0;
+}
+
+.footer-link ul li a, .footer-about ul li a {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 1.55rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.footer-link ul li a:hover, .footer-about ul li a:hover {
+  color: #dcd1f3;
+}
+
+.footer-news {
+  padding: 0 0 0 40px;
+}
+
+.footer-news input {
+  display: block;
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  outline: none;
+  padding: 1em;
+  line-height: 1;
+  border-radius: 50px;
+  height: 3.2em;
+  background-color: #aa017e;
+  color: #ffffff;
+  text-align: center;
+  margin: 3em 0 0.5em;
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.footer-news input::-webkit-input-placeholder {
+  color: #ffffff;
+}
+
+.footer-news input:-ms-input-placeholder {
+  color: #ffffff;
+}
+
+.footer-news input::-ms-input-placeholder {
+  color: #ffffff;
+}
+
+.footer-news input::placeholder {
+  color: #ffffff;
+}
+
+.footer-news input:focus {
+  border-color: #ffffff;
+}
+
+.footer-news button {
+  width: 100%;
+}
+/*# sourceMappingURL=footer.css.map */
