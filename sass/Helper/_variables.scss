@@ -25,3 +25,11 @@ $fw4: 700;
 //Font-family
 $font-primary: 'Montserrat', sans-serif;
 $font-secondary:'Roboto', sans-serif;
+
+//breakpoints
+$breakpoints: (
+    "extra-large": 1200px,
+    "large": 992px,
+    "medium": 768px,
+    "small": 576px,
+)

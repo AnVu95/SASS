@@ -217,7 +217,7 @@ option {
           animation: headerAnimation 0.5s ease;
 }
 
-@media (max-width: 1199px) {
+@media screen and (max-width: 1200px) {
   .header {
     background-color: #ffffff;
   }
