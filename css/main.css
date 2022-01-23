@@ -624,12 +624,13 @@ option {
   padding-left: 0.5em;
 }
 
-.footer-contact__social {
+.footer-contact-social {
   font-size: 0.9em;
   padding-top: 10px;
+  color: #ffffff;
 }
 
-.footer-contact__social i {
+.footer-contact-social i {
   color: #ffffff;
   font-size: 1em;
   padding-left: 1em;
@@ -637,7 +638,7 @@ option {
   transition: all 0.3s ease;
 }
 
-.footer-contact__social i:hover {
+.footer-contact-social i:hover {
   color: #191919;
 }
 

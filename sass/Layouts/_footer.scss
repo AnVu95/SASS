@@ -22,9 +22,10 @@
                 padding-left: 0.5em;
             }
         }
-        &__social{
+        &-social{
             font-size: 0.9em;
             padding-top: 10px;
+            color: $color-white;
             i{
                 color: $color-white;
                 font-size: 1em;
